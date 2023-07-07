@@ -1,0 +1,43 @@
+C:\Users\Evg\Desktop\Андрей Черкашин\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Evg\Desktop\Андрей Черкашин\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Evg\Desktop\Андрей Черкашин\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Evg\Desktop\Андрей Черкашин\Lab4\Lab4\bin\Debug\FirmLibrary.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\Lab4\Lab4\bin\Debug\FirmLibrary.pdb
+C:\Users\Evg\Desktop\Андрей Черкашин\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\Evg\Desktop\Андрей Черкашин\Lab4\Lab4\obj\Debug\Lab4.FilterForm.resources
+C:\Users\Evg\Desktop\Андрей Черкашин\Lab4\Lab4\obj\Debug\Lab4.MainForm.resources
+C:\Users\Evg\Desktop\Андрей Черкашин\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Evg\Desktop\Андрей Черкашин\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\Evg\Desktop\Андрей Черкашин\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Evg\Desktop\Андрей Черкашин\Lab4\Lab4\obj\Debug\Lab4.csproj.CopyComplete
+C:\Users\Evg\Desktop\Андрей Черкашин\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Evg\Desktop\Андрей Черкашин\Lab4\Lab4\obj\Debug\Lab4.pdb
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\Lab4\Lab4\bin\Debug\Lab4.exe.config
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\Lab4\Lab4\bin\Debug\Lab4.exe
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\Lab4\Lab4\bin\Debug\Lab4.pdb
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\Lab4\Lab4\bin\Debug\FirmLibrary.dll
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\Lab4\Lab4\bin\Debug\FirmLibrary.pdb
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\Lab4\Lab4\obj\Debug\Lab4.FilterForm.resources
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\Lab4\Lab4\obj\Debug\Lab4.MainForm.resources
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\Lab4\Lab4\obj\Debug\Lab4.csproj.CopyComplete
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\Lab4\Lab4\obj\Debug\Lab4.exe
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\Lab4\Lab4\obj\Debug\Lab4.pdb
+E:\Рабочий стол\GitHub\LAB4\Lab4\bin\Debug\Lab4.exe.config
+E:\Рабочий стол\GitHub\LAB4\Lab4\bin\Debug\Lab4.exe
+E:\Рабочий стол\GitHub\LAB4\Lab4\bin\Debug\Lab4.pdb
+E:\Рабочий стол\GitHub\LAB4\Lab4\bin\Debug\FirmLibrary.dll
+E:\Рабочий стол\GitHub\LAB4\Lab4\bin\Debug\FirmLibrary.pdb
+E:\Рабочий стол\GitHub\LAB4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+E:\Рабочий стол\GitHub\LAB4\Lab4\obj\Debug\Lab4.csproj.SuggestedBindingRedirects.cache
+E:\Рабочий стол\GitHub\LAB4\Lab4\obj\Debug\Lab4.FilterForm.resources
+E:\Рабочий стол\GitHub\LAB4\Lab4\obj\Debug\Lab4.MainForm.resources
+E:\Рабочий стол\GitHub\LAB4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+E:\Рабочий стол\GitHub\LAB4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+E:\Рабочий стол\GitHub\LAB4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+E:\Рабочий стол\GitHub\LAB4\Lab4\obj\Debug\Lab4.csproj.CopyComplete
+E:\Рабочий стол\GitHub\LAB4\Lab4\obj\Debug\Lab4.exe
+E:\Рабочий стол\GitHub\LAB4\Lab4\obj\Debug\Lab4.pdb
